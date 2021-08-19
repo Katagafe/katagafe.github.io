@@ -1,6 +1,6 @@
 body {overflow-x: hidden;}
 
-body * {font-family: brix-slab, serif !important;}
+body * {font-family: brix-slab !important;}
 
 .navbar {margin-bottom: 70px;
 	background-color: whitesmoke;}
