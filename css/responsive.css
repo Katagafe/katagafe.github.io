@@ -1,0 +1,65 @@
+@media(max-width: 992px){
+
+	#about {display: block;}
+
+	#about > .big-name {flex-basis: 0px;
+		max-width: 100% !important;}
+
+	#about > .big-name > h1 {font-size: 72px;
+		width: 100%;
+		margin: 0px;
+		padding: 0px 40px 0px 40px;}
+
+	#about > .big-name > img {width: 100%;
+	text-align: center !important;
+	margin: 0px;
+	padding: 0px 40px 0px 40px;}
+
+	#skills > div > .tools-icons {width: 100%;}
+
+}
+
+@media(max-width: 768px){
+	#about > .big-name > h1 {font-size: 68px;}
+}
+
+@media(max-width: 576px){
+
+	#about > .big-name {max-width: 100% !important;}
+
+	#about > .big-name > h1 {font-size: 42px;
+		width: 100% !important;}
+
+	.section-title {margin: 20px 10px 50px 10px;}
+
+	#skills > div > h5 {margin: 20px 10px 50px 10px;}
+
+	section > .section-item {border-left: none !important;}
+
+}
+
+@media(max-width: 360px){
+
+	#lang-index > div > a {font-size: 14px;
+		margin: 5px;}
+}
+
+@media(max-width: 344px){
+
+	.navbar-brand {text-align: center !important;
+		width: 100%;}
+
+	.navbar-brand > .profile {margin: 0px;
+		padding: 0px;}
+	
+	.navbar-toggler {width: 100%;
+		margin-right: 0px;}
+
+	#lang-index > div > a {font-size: 10px;
+		margin: 3px;}
+
+	#about > .big-name > h1 {max-width: 100% !important;
+		width: 100%;
+		font-size: 36px;
+		}
+}

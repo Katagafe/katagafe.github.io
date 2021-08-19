@@ -1,0 +1,199 @@
+body {overflow-x: hidden;}
+
+body * {font-family: 'brix slab', sans-serif;}
+
+.navbar {margin-bottom: 70px;
+	background-color: whitesmoke;}
+
+.navbar .profile {width: 200px;
+	height: auto;
+	border-radius: 50%;
+	margin-left: 10px;
+	border: 5px solid #fff;}
+
+.navbar a {margin: 20px;
+	text-align: center;
+	text-decoration: none;
+	padding-bottom: 10px;
+	font-size: 20px;}
+
+.navBar a:hover {color: #15616d !important;}
+
+.navbar-toggler {margin-right: 15px;}
+
+.navbar-toggler:focus {border: none;}
+
+body > section {position: relative !important;
+	overflow: hidden !important;}
+
+
+/**********************************************/
+
+#lang-index > div {padding: 5px 20px 5px 20px;
+	margin: 0px 20px 0px 20px;
+	width: 100%;}
+
+#lang-index * {display: inline-block;}
+
+#lang-index > div > h6 {color: #666;}
+
+#lang-index > div > a {margin: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #666;}
+
+#lang-index > div > .active {color: royalblue;}
+
+#lang-index > div > a:hover {color: royalblue;}
+
+/**********************************************/
+
+#about {display: flex;
+	padding-top: 30px;}
+
+#about > .big-name {max-width: 500px;}
+
+#about > .big-name > h1 {font-size: 72px;
+	width: 500px;
+	padding: 20px;
+	margin: 0px 20px 0px 20px;}
+
+#about > .big-name > h1 > span {color: #15616d;}
+
+#about > .big-name > img {width: 100%;
+	text-align: center;
+	display: block;
+	margin: 0px 20px 0px 20px;
+	padding: 20px;}
+
+		/************************/
+
+#about > .coordonnees {padding: 20px;
+	margin: 0px 20px 0px 20px;}
+
+#about > .coordonnees > div > a {display: block;
+	margin: 10px 0px 10px 0px;
+	color: #212529;
+	text-decoration: none;}
+
+#about > .coordonnees > div a[href]:hover {color: #15616d;}
+
+#about > .coordonnees > div > .social-links > a {text-decoration: none;
+	font-size: 30px;
+	margin: 10px 20px 10px 0px;
+	color: #212529;}
+
+#about > .coordonnees > .intro > p {margin: 10px 0px 20px 0px;}
+
+#about > .coordonnees > .intro > span > a {text-decoration: none;}
+
+/**********************************************/
+
+.section-title {margin: 20px 0px 50px 0px;
+	padding-top: 30px;}
+
+#experiences > .section-item {border-left: 5px solid #15616d;
+	padding: 10px;
+	margin-bottom: 50px;}
+
+#experiences > .section-item > div {padding: 10px 5px 10px 5px;}
+
+#experiences > .section-item > div > .etablissement-name {color: #15616d;}
+
+
+/**********************************************/
+
+.section-title {margin: 50px 0px 50px 0px;}
+
+.section-item > div > h6 {font-weight: normal;
+	color: #666;}
+
+#education > .section-item {border-left: 5px solid #f26822;
+	padding: 10px;
+	margin-bottom: 50px;}
+
+#education > .section-item > div {padding: 10px 5px 10px 5px;}
+
+#education > .section-item > div > .etablissement-name {color: #f26822;}
+
+.specialization {margin-bottom: 20px;
+	color: #555;}
+
+.mark-honors {padding: 0px 5px 10px 5px !important;}
+
+.courses {padding: 0px !important;}
+
+.courses > a {padding: 5px 10px 5px 10px;
+	margin: 5px;
+	display: inline-block;
+	background-color: #f26822;
+	color: #fff !important;
+	border-radius: 5px;}
+
+/**********************************************/
+
+#skills > div > h5 {margin-bottom: 30px;}
+
+#skills > div {margin-bottom: 30px;}
+
+#skills > div > .languages > a {display: block;
+	margin: 5px;
+	padding: 0px 5px 0px 10px;
+	color: #666;}
+
+#skills > div > .tools-icons {width: 60%;}
+
+#skills > div > .tools-icons > a > img {width: 40px !important;
+	height: auto;
+	margin: 10px 20px 10px 10px;}
+
+#skills > div > .tools-icons > a > img:hover {fill: #15616d;}
+
+#skills > div > .languages > a > i {margin: 0px 10px 0px 0px;}
+
+/**********************************************/
+
+#certifications > .section-item {border-left: 5px solid #15616d;
+	padding: 10px;
+	margin-bottom: 50px;}
+
+#certifications > .section-item > div {padding: 10px 5px 10px 5px;}
+
+#certifications > .section-item > div > .etablissement-name {color: #15616d;}
+
+#certifications > .certification-paper > p {display: block;
+	margin: 5px;
+	padding: 0px 5px 0px 10px;
+	color: #666;}
+
+#certifications > .certification-paper > p > a {display: inline !important;
+	color: #666;}
+
+#certifications > .certification-paper > p > i {margin: 0px 10px 0px 0px;
+	color: #15616d;}
+
+#certifications > .certification-paper > p > a:hover {color: royalblue;}
+
+
+/**********************************************/
+#interests > p {margin-bottom: 30px;}
+
+#interests > .interests-item {margin-bottom: 80px;}
+
+#interests > .interests-item > a {display: block;
+	margin: 5px;
+	padding: 0px 5px 0px 10px;
+	color: #666;}
+
+#interests > .interests-item > a > i {margin: 0px 10px 0px 0px;}
+
+
+/**********************************************/
+
+.copyright {background-color: #15616d;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+	font-weight: lighter;
+	letter-spacing: 0.5px;
+	margin-bottom: -1rem;}
