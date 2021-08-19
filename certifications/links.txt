@@ -1,0 +1,7 @@
+cert-responsive web design = https://www.sololearn.com/Certificate/1162-6276846/jpg/
+cert-coding for marketers = https://www.sololearn.com/Certificate/1165-6276846/jpg/
+cert-jquery = https://www.sololearn.com/Certificate/1082-6276846/jpg/
+cert-sql = https://www.sololearn.com/Certificate/1060-6276846/jpg/
+cert-php = https://www.sololearn.com/Certificate/1059-6276846/jpg/
+cert-css = https://www.sololearn.com/Certificate/1023-6276846/jpg/
+cert-html = https://www.sololearn.com/Certificate/1014-6276846/jpg/
