@@ -176,6 +176,15 @@ body > section {position: relative !important;
 
 #certifications > .certification-paper > p > a:hover {color: royalblue;}
 
+.areas_covered {padding: 0px !important;}
+
+.areas_covered > a {padding: 5px 10px 5px 10px;
+	margin: 5px;
+	display: inline-block;
+	background-color: #2b7fd9;
+	color: #fff !important;
+	border-radius: 5px;}
+
 
 /**********************************************/
 #interests > p {margin-bottom: 30px;}
