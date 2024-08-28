@@ -162,7 +162,7 @@ body > section {position: relative !important;
 #certifications > .section-item > div {padding: 10px 5px 10px 5px;}
 
 #certifications > .section-item > .cert_info {display: flex;
-	flex: 1;}
+	flex: 3;}
 
 #certifications > .section-item > .cert_image {display: flex;
 	flex: 1;}
