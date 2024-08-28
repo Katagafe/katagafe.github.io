@@ -161,15 +161,6 @@ body > section {position: relative !important;
 
 #certifications > .section-item > div {padding: 10px 5px 10px 5px;}
 
-#certifications > .section-item > .cert_info {display: flex;
-	flex: 3;}
-
-#certifications > .section-item > .cert_image {display: flex;
-	flex: 1;}
-
-#certifications > .section-item > .cert_image > img {max-width: 100%;
-        height: auto;}
-
 #certifications > .section-item > div > .etablissement-name {color: #2a7ed8;}
 
 #certifications > .certification-paper > p {display: block;
