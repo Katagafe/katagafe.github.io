@@ -159,7 +159,15 @@ body > section {position: relative !important;
 	padding: 10px;
 	margin-bottom: 50px;}
 
-#certifications > .section-item > div {padding: 10px 5px 10px 5px;}
+#certifications > .section-item > div {padding: 10px 5px 10px 5px;
+	display: flex;}
+
+#certifications > .section-item > .cert_info {flex: 1;}
+
+#certifications > .section-item > .cert_image {flex: 1;}
+
+#certifications > .section-item > .cert_image > img {max-width: 100%;
+        height: auto;}
 
 #certifications > .section-item > div > .etablissement-name {color: #2a7ed8;}
 
