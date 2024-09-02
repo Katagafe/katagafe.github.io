@@ -185,6 +185,8 @@ body > section {position: relative !important;
 	color: #fff !important;
 	border-radius: 5px;}
 
+#certifications > .img-fluid {box-shadow: 0px 0px 5px gray !important;}
+
 
 /**********************************************/
 #interests > p {margin-bottom: 30px;}
